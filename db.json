@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Dreezy Tempes",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card17.jpg",
+      "worth": 500000
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card2.avif",
+      "worth": 400000
+    },
+    {
+      "id": 3,
+      "name": "Zoe Johnson",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card15.jpeg",
+      "worth": 550000
+    },
+    {
+      "id": 4,
+      "name": "Anna Mickman",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card18.webp",
+      "worth": 410000
+    },
+    {
+      "id": 5,
+      "name": "Pharrell William",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card10.avif",
+      "worth": 660000
+    },
+    {
+      "id": 6,
+      "name": "Haelly Vumi",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card9.jpeg",
+      "worth": 1200000
+    },
+    {
+      "id": 7,
+      "name": "Cortney Jackson",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card20.jpg",
+      "worth": 780000
+    },
+    {
+      "id": 8,
+      "name": "Kim Mwaah",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card8.jpeg",
+      "worth": 840000
+    },
+    {
+      "id": 9,
+      "name": "Jonh Snow",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card10.avif",
+      "worth": 980000
+    },
+    {
+      "id": 10,
+      "name": "Ayra Starck",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card11.jpeg",
+      "worth": 400000
+    },
+    {
+      "id": 11,
+      "name": "Georgia Paulson",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card12.jpg",
+      "worth": 780090
+    },
+    {
+      "id": 12,
+      "name": "Khalisea Dragon",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card19.jpeg",
+      "worth": 300230
+    },
+    {
+      "id": 13,
+      "name": "Robert Capricon",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card13.webp",
+      "worth": 567200
+    },
+    {
+      "id": 14,
+      "name": "Sam Floom",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card16.jpeg",
+      "worth": 874000
+    },
+    {
+      "id": 15,
+      "name": "Ricky Sumek",
+      "title": "Amazing Artwork",
+      "description": "This artwork depicts the beauty of nature.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "images/card.code.webp",
+      "worth": 980000
+    }
+  ]
+}
